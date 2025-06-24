@@ -15,6 +15,8 @@ This project focuses on identifying fraudulent credit card transactions using ma
 - SMOTE from imbalanced-learn
 
 ### 🚀 How to Run
+```bash
 1. Clone the repo  
 2. Install requirements (`pip install -r requirements.txt`)  
 3. Run `fraud_detection.ipynb` or equivalent script
+```
